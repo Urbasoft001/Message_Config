@@ -4,23 +4,23 @@
       "fr": "https://chat.whatsapp.com/Bgo2qC5nGjsKj3uPYOlT8A",
       "en": "https://chat.whatsapp.com/BZr353yuV328Z3IPwHoDBZ"
     },
-    "youtube_channel": "https://youtube.com/@tonchannel",
-    "tiktok": "https://tiktok.com/@toncompte",
-    "facebook": "https://facebook.com/tonpage"
+    "youtube_channel": "https://www.youtube.com/channel/UCEi3udZCkaAvHp-s84tBXWw",
+    "tiktok": "https://tiktok.com/@MessageduTempsduSoir",
+    "facebook": "https://web.facebook.com/people/Message-du-temps-du-soir/100064091769359/"
   },
 
   "youtube_feed": [
     {
-      "id": "nJ-nIDS_gqU",
-      "title": "Titre de la vidéo 1",
-      "thumbnail": "https://img.youtube.com/vi/nJ-nIDS_gqU/hqdefault.jpg",
-      "video_url": "https://youtube.com/watch?v=nJ-nIDS_gqU"
+      "id": "ulhL82pOUM0",
+      "title": "52 Minutes d’Adoration | Cantiques Chrétiens du message – Adoration 2026 Cantiques pour La prière",
+      "thumbnail": "https://img.youtube.com/vi/ulhL82pOUM0/hqdefault.jpg",
+      "video_url": "https://youtube.com/watch?v=ulhL82pOUM0"
     },
     {
-      "id": "VIDEO_ID_2",
-      "title": "Titre de la vidéo 2",
-      "thumbnail": "https://img.youtube.com/vi/VIDEO_ID_2/hqdefault.jpg",
-      "video_url": "https://youtube.com/watch?v=VIDEO_ID_2"
+      "id": "AyXOdl8sC_U",
+      "title": "Neville KANONO | Adoration à l'Ancienne Mode | Acoustique | Musique Pour La Prière | message",
+      "thumbnail": "https://img.youtube.com/vi/AyXOdl8sC_U/hqdefault.jpg",
+      "video_url": "https://youtube.com/watch?v=AyXOdl8sC_U"
     }
   ]
 }
