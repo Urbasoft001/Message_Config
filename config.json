@@ -10,6 +10,27 @@
   },
 
   "youtube_feed": [
+    
+
+    
+    {
+      "id": "aJgc2ktUzdM",
+      "title": "CANTIQUES ACOUSTIQUES DE MÉDITATION – MUSIQUE DE FOND APAISANTE POUR DORMIR, ÉTUDIER ET MÉDITER",
+      "thumbnail": "https://img.youtube.com/vi/aJgc2ktUzdM/hqdefault.jpg",
+      "video_url": "https://youtube.com/watch?v=aJgc2ktUzdM"
+    },
+    {
+      "id": "4h4wx8OHkz4",
+      "title": "1 heure 12  d’Adoration | Cantiques Chrétiens du message – pour La prière, la Méditation",
+      "thumbnail": "https://img.youtube.com/vi/4h4wx8OHkz4/hqdefault.jpg",
+      "video_url": "https://youtu.be/4h4wx8OHkz4"
+    },
+    {
+      "id": "TBony0w-u6c",
+      "title": "CANTIQUE DE MÉDITATION – MUSIQUE DE FOND APAISANTE POUR DORMIR, ÉTUDIER ET MÉDITER",
+      "thumbnail": "https://img.youtube.com/vi/TBony0w-u6c/hqdefault.jpg",
+      "video_url": "https://youtu.be/TBony0w-u6c"
+    },
     {
       "id": "ulhL82pOUM0",
       "title": "52 Minutes d'Adoration | Cantiques Chrétiens du message – Adorations 2026 Cantiques pour La prière",
@@ -107,11 +128,11 @@
       "video_url": "https://youtu.be/Q_5lu_n_PMQ"
     },
     {
-  "id": "grace_mutombo",
-  "title": "mbandaka : une grande campagne d'evangelisation avec le pasteur grâce mutombo et pasteur lambert paradoxe",
-  "image_url": "https://raw.githubusercontent.com/Urbasoft001/Tumbnails/main/gracemutombo.jpg",
+  "id": "post",
+  "title": "",
+  "image_url": "",
   "type": "9:16",
-  "description": "La ville de Mbandaka, accueillera une grande campagne d’évangélisation organisée par l’église Lumière du Soir Tabernacle et son berger le Révérend Pasteur Lambert Paradoxe.\nOrateur : Pasteur Grâce Mutombo, des églises Sublime Tabernacle Kinshasa et Lubumbashi, qui viendra apporter un message évangélique au peuple equatorien.\nPrévue du jeudi 16 au dimanche 19 juillet 2026, cette campagne se déroulera chaque jour de 14h30 à 19h00 au Parc Joseph Kabila, un lieu emblématique qui accueillera les fidèles et tous ceux qui désirent faire une expérience réelle avec Dieu.\nPlacée sous le thème fort : « Le Dieu réel pour les faits réels », cette rencontre promet des moments puissants de prédication, de prière et de manifestation de la présence divine. \nLes organisateurs invitent la population de Mbandaka et des environs à venir nombreux pour vivre ces instants uniques de communion.\nNe manquez pas ces rendez-vous divins."
+  "description": ""
 }
   ]
 }
